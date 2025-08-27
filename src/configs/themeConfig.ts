@@ -52,7 +52,7 @@ export type Config = {
 const themeConfig: Config = {
   templateName: 'Polo Music',
   homePageUrl: '/home',
-  settingsCookieName: '',
+  settingsCookieName: 'materio-mui-next-demo',
   mode: 'system', // 'system', 'light', 'dark'
   skin: 'default', // 'default', 'bordered'
   semiDark: false, // true, false
