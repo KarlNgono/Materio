@@ -50,9 +50,9 @@ export type Config = {
 }
 
 const themeConfig: Config = {
-  templateName: 'Plan Monark',
+  templateName: 'Polo Music',
   homePageUrl: '/home',
-  settingsCookieName: 'materio-mui-next-demo',
+  settingsCookieName: '',
   mode: 'system', // 'system', 'light', 'dark'
   skin: 'default', // 'default', 'bordered'
   semiDark: false, // true, false
