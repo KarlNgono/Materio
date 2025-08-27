@@ -17,9 +17,9 @@ import '@/app/globals.css'
 import '@assets/iconify-icons/generated-icons.css'
 
 export const metadata = {
-  title: 'Plan Monark',
+  title: 'Polo Music',
   description:
-    'Materio - Material Design Next.js Admin Dashboard Template - is the most developer friendly & highly customizable Admin Dashboard Template based on MUI v5.'
+    'Polo Music is a modern music streaming app that lets you listen to your favorite artists, discover new talents, and create your own playlists. Enjoy high-quality sound and a personalized music experience anytime, anywhere.'
 }
 
 const RootLayout = async (props: ChildrenType) => {
